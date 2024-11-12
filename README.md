@@ -31,5 +31,6 @@ Cowardly Rescue is an immersive single-player horror-puzzle game where you play 
 - **Emotional Storytelling:** Rescue Muriel in a suspense-filled narrative driven by your decisions.
 
 Experience the fear, strategy, and bravery in **Cowardly Rescue!**
+
 **Can You Handle The Pressure?**
 
