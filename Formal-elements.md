@@ -3,7 +3,7 @@
 **Fear is Real. Courage is a Choice.**
 
 <div align="center">
-  <img src="Cowardly_Dog_Rescue.png" width="300"/>
+  <img src="Cowardly Dog Rescue.jpg" width="300"/>
 </div>
 
 ### Game Concept
