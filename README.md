@@ -7,7 +7,6 @@ Cowardly Rescue is an immersive single-player horror-puzzle game where you play 
   <img src="Cowardly Dog Rescue.jpg" width="300"/>
 </div>
 
----
 
 ### Key Features
 
@@ -19,7 +18,6 @@ Cowardly Rescue is an immersive single-player horror-puzzle game where you play 
 - **Creators:** Koren Abdush, Amit Gini  
 - **More Information:** [Formal Elements Document](https://github.com/GiniProj/Cowardly-Rescue/blob/main/Formal-elements.md)  
 
----
 
 ### Game Components
 
