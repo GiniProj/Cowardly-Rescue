@@ -7,7 +7,7 @@ Cowardly Rescue is an immersive single-player horror-puzzle game where you play 
   <img src="Cowardly Dog Rescue.jpg" width="300"/>
 </div>
 
-
+---
 ### Key Features
 
 - **Audience:** Recommended for ages 12+  
@@ -17,8 +17,7 @@ Cowardly Rescue is an immersive single-player horror-puzzle game where you play 
 - **End Goal:** Successfully rescue Muriel and escape the barn without being caught by the monster.  
 - **Creators:** Koren Abdush, Amit Gini  
 - **More Information:** [Formal Elements Document](https://github.com/GiniProj/Cowardly-Rescue/blob/main/Formal-elements.md)  
-
-
+---
 ### Game Components
 
 - **Light & Stealth Mechanic:** Use the flashlight wisely to avoid attracting the monster.
