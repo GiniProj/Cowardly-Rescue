@@ -6,10 +6,12 @@
   <img src="Cowardly Dog Rescue.jpg" width="300"/>
 </div>
 
+---
 ### Game Concept
 
 In *Cowardly Rescue*, players take on the role of Courage, a small but brave pink dog navigating a dark, eerie barn at night. Armed with only a flashlight, Courage must solve chilling puzzles and outwit lurking monsters to rescue his beloved owner, Muriel. Monsters are drawn to light, so players must strategically use shadows to hide and carefully time their movements. Each step into the darkness unveils new horrors, testing Courage’s bravery as he faces his worst fears to save the ones he loves.
 
+---
 ### Official Components
 
 - **Players**
@@ -47,6 +49,7 @@ In *Cowardly Rescue*, players take on the role of Courage, a small but brave pin
   - **Losing:** Getting caught by the monster, with or without rescuing Muriel.
   - The outcome depends on the player’s skill in puzzle-solving, stealth, and a bit of luck to avoid the monster.
 
+---
 ### Market Research
 
 - **Related Games:**
@@ -57,6 +60,7 @@ In *Cowardly Rescue*, players take on the role of Courage, a small but brave pin
   - **Alien: Isolation**
     - Our game emphasizes personal motivation, limited resources, and puzzle-based stealth rather than resource-heavy survival in a sci-fi setting.
 
+---
 ### Unique Components
 
 - Personal rescue missions with an emotional connection to Muriel.
