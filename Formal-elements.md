@@ -1,12 +1,14 @@
 # Cowardly Rescue
 
-**Fear is Real. Courage is a Choice.**
+<div align="center">
+  <h3><strong>Fear is Real, Courage is a Choice</strong></h3>
+</div>
 
 <div align="center">
   <img src="Cowardly Dog Rescue.jpg" width="300"/>
 </div>
 
----
+
 ### Game Concept
 
 In *Cowardly Rescue*, players take on the role of Courage, a small but brave pink dog navigating a dark, eerie barn at night. Armed with only a flashlight, Courage must solve chilling puzzles and outwit lurking monsters to rescue his beloved owner, Muriel. Monsters are drawn to light, so players must strategically use shadows to hide and carefully time their movements. Each step into the darkness unveils new horrors, testing Courage’s bravery as he faces his worst fears to save the ones he loves.
