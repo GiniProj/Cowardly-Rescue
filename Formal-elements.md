@@ -51,7 +51,6 @@ In *Cowardly Rescue*, players take on the role of Courage, a small but brave pin
   - **Losing:** Getting caught by the monster, with or without rescuing Muriel.
   - The outcome depends on the player’s skill in puzzle-solving, stealth, and a bit of luck to avoid the monster.
 
----
 ### Market Research
 
 - **Related Games:**
@@ -62,7 +61,6 @@ In *Cowardly Rescue*, players take on the role of Courage, a small but brave pin
   - **Alien: Isolation**
     - Our game emphasizes personal motivation, limited resources, and puzzle-based stealth rather than resource-heavy survival in a sci-fi setting.
 
----
 ### Unique Components
 
 - Personal rescue missions with an emotional connection to Muriel.
