@@ -50,7 +50,31 @@ In *Cowardly Rescue*, players take on the role of Courage, a small but brave pin
   - **Winning:** Successfully rescuing Muriel and escaping without being caught.
   - **Losing:** Getting caught by the monster, with or without rescuing Muriel.
   - The outcome depends on the player’s skill in puzzle-solving, stealth, and a bit of luck to avoid the monster.
+---
+### Scenarios
 
+ - **Where's Muriel ?**
+    - You have lost your owner, an ominous monster is lurking and you have to find your beloved muriel. 
+	  The monster is after you, you have to keep quiet and not alert the monster.
+	  You will have to be as quiet as possible and find the clues that will lead you to 	find muriel. 
+    First you check the attic,  the dark and scary place, there you will find the computer to help you find out     what you’re dealing with and get the first clue.
+    You must complete the search without getting caught by the monster who might be attracted to the noise and       light, if she comes you can hide in various places or knock her out if you have found the right weapon.
+
+  - **Rescue Muriel**
+    - You have completed the Puzzles and found Muriel ! 
+      but it doesn't end here, you have to lead muriel through the old dark barn to safety without getting           caught by the monster. You have to hide and avoid the monster and you will be responsible for hiding             Muriel as well she must not be caught. Once you're out of the barn and in safety you have won the game.
+
+  ### Puzzles 
+  - **Shadow Align** -  Player must align shadows on a barn wall to form a specific pattern. The monster will           be attracted to sudden changes in light so the player must complete the puzzle swiftly without use of           flashlight.
+
+  - **Locked Toolbox** - The player will have to find out the 4-digit lock sequence with clues he will have in         the surrounding place or a riddle that will reveal the correct combination. The player will have limited         time as the monster will be attracted to the noise that the lock makes.
+
+  ### Usables
+  - Flashlight
+  - Bat
+  - Keys
+  - Hiding Places
+   
 ---
 ### Market Research
 
